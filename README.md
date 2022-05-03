@@ -1,4 +1,4 @@
-# ktor-website Interactive Website with Persistence
+# Interactive Website with Persistence
 A sample Ktor project showing how to [add persistence](https://ktor.io/docs/interactive-website-add-persistence.html) to an interactive website.
 
 ## Running
